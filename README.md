@@ -1,2 +1,2 @@
 # Project-4
-Project under JavaScript
+Made a simple mathbot
